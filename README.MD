@@ -25,12 +25,13 @@ Copilot：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| imagem da capa | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| imagem da capa | '(a escrever)' |
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagem da capa gerada via Copilot
+- Outras imagens geradas no Power Point
 
 ## 📚 Materiais
 
