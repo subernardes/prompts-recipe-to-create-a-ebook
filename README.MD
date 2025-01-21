@@ -2,7 +2,8 @@
 # Projeto EBOOK Gerado por I.A.s
 
 
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA e faz parte do desafio CAIXA – Criando Impacto Social com IA. 
+Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA.
+A construção deste ebook faz parte do desafio CAIXA – Criando Impacto Social com IA, no CAIXA BootCamp IA Generativa na plataforma da DIO. 
 
 
 ## 💻 Tecnologias utilizadas no projeto
