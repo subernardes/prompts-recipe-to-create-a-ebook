@@ -40,7 +40,33 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+| conteúdo | Faça um texto para ebook, com o tema 'Criando Impacto Social com IA' dentro do contexto dos objetivos estratégicos da CAIXA. O público-alvo são gestores e profissionais interessados em inovação e impacto social
+
+ 
+
+{REGRAS}
+
+> explique sempre de maneira simples
+
+> deixe o texto enxuto
+
+> sempre deixe um título sugestivo por tópico
+
+> as Ideias de aplicação de IA devem estar alinhadas aos objetivos estratégicos da CAIXA, com Sugestões de parcerias e implementação
+
+> traga sugestões e exemplos de aplicações práticas de IA
+
+> traga indicadores
+
+> Traga uma Breve visão sobre como a CAIXA pode se beneficiar disso
+
+> Explique sobre inteligência artificial de maneira acessível e traga Exemplos práticos de IA aplicada a projetos sociais
+
+> traga um case de sucesso, com Estudos de caso nacionais e internacionais de IA aplicada a impacto social e os Resultados obtidos
+
+> Reforce a importância do impacto social com IA e faça chamada à ação para explorar essas possibilidades
+
+> ao final, traga Fontes de pesquisa e Glossário de termos técnicos simplificado |
 
 
 Midjourney：
