@@ -36,7 +36,7 @@ Copilot：
 
 ## 📚 Materiais
 
-- O ebook gerado no arquivo ebook Impacto social e ia.pdf
+- Arquivo do ebook: Impacto social e ia.pdf
 
 ## 🛠️ Execução
 
