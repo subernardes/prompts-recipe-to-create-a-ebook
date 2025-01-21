@@ -41,7 +41,9 @@ Copilot：
 
 ## 🛠️ Execução
 
-Utilizei os prompts acima nas ferramentas sugeridas para gerar o material base e utilizei a ferramenta power point para edição do documentos. As informações foram validadas.
+Utilizei os prompts acima, nas ferramentas indicadas, para gerar o material base.
+Utilizei a ferramenta Power Point para edição do documentos. 
+As informações foram validadas.
 
 ## 👨‍💻 Expert
 
