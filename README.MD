@@ -22,15 +22,7 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| conteúdo | Faça um texto para ebook, com o tema 'Criando Impacto Social com IA' dentro do contexto dos objetivos estratégicos da CAIXA. O público-alvo são gestores e profissionais interessados em inovação e impacto social
-
- 
-
-{REGRAS}
-
-> explique sempre de maneira simples
-
-> deixe o texto enxuto
+| conteúdo | Faça um texto para ebook, com o tema 'Criando Impacto Social com IA' dentro do contexto dos objetivos estratégicos da CAIXA. O público-alvo são gestores e profissionais interessados em inovação e impacto social {REGRAS} > explique sempre de maneira simples > deixe o texto enxuto
 
 > sempre deixe um título sugestivo por tópico
 
