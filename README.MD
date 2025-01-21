@@ -36,8 +36,7 @@ Copilot：
 
 ## 📚 Materiais
 
-- Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
+- O ebook gerado no arquivo ebook Impacto social e ia.pdf
 
 ## 🛠️ Execução
 
