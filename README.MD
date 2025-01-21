@@ -25,7 +25,7 @@ Copilot：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| imagem da capa | '(a escrever)' |
+| imagem da capa | (a escrever) |
 
 ## ✨ Features
 
@@ -38,9 +38,9 @@ Copilot：
 - Imagens utilizadas em `assets`
 - ebook gerado durante as aulas em `output`
 
-## 🛠️ Instruções de execução
+## 🛠️ Execução
 
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
+Utilizei os prompts acima nas ferramentas sugeridas para gerar o material base e utilizei a ferramenta power point para edição do documentos. As informações foram validadas.
 
 ## 👨‍💻 Expert
 
