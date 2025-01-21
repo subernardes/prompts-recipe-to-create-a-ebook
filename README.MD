@@ -36,7 +36,7 @@ Copilot：
 
 ## 📚 Materiais
 
-- Arquivo do ebook: Impacto social e ia.pdf
+- Arquivo do ebook: [Impacto social e ia.pdf](https://github.com/subernardes/prompts-recipe-to-create-a-ebook/blob/main/ebook%20Impacto%20social%20e%20ia.pdf) 
 
 ## 🛠️ Execução
 
