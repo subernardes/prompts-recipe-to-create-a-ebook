@@ -26,7 +26,7 @@ Copilot：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| imagem da capa | (a escrever) |
+| imagem da capa | crie uma imagem que represente o seguinte título: Criando Impacto Social com IA: Alinhando Inovação aos Objetivos Estratégicos da CAIXA{REGRAS NEGATIVAS}> não inclua palavras ou títulos na imagem |
 
 ## ✨ Features
 
